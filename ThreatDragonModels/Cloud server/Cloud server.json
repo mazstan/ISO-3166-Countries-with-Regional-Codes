@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Cloud server"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Cloud service",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
